@@ -1,0 +1,281 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "driftyco/ionic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:37Z",
+            "owner": "ionic-team",
+            "repo": "ionic-framework",
+            "stars": 52616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polymer/polymer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-02T03:04:41Z",
+            "owner": "Polymer",
+            "repo": "polymer",
+            "stars": 22024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "appium/appium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:25:51Z",
+            "owner": "appium",
+            "repo": "appium",
+            "stars": 21854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sindresorhus/ava",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T10:19:10Z",
+            "owner": "avajs",
+            "repo": "ava",
+            "stars": 20834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theos/theos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-08T07:04:06Z",
+            "owner": "theos",
+            "repo": "theos",
+            "stars": 4902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-translate/angular-translate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-21T17:35:33Z",
+            "owner": "angular-translate",
+            "repo": "angular-translate",
+            "stars": 4276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urigo/angular-meteor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-05-02T13:59:03Z",
+            "owner": "Urigo",
+            "repo": "angular-meteor",
+            "stars": 2335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eddyverbruggen/toast-phonegap-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-11-10T15:03:53Z",
+            "owner": "EddyVerbruggen",
+            "repo": "Toast-PhoneGap-Plugin",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bchavez/rethinkdb.driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-12T16:08:37Z",
+            "owner": "bchavez",
+            "repo": "RethinkDb.Driver",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeforamerica/howto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-17T18:38:38Z",
+            "owner": "codeforamerica",
+            "repo": "howto",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "growcss/growcss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-04-29T20:10:49Z",
+            "owner": "growcss",
+            "repo": "growcss",
+            "stars": 4
+          }
+        }
+      ],
+      "title": ":bomb: Templates for Issues"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "driftyco/ionic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:37Z",
+            "owner": "ionic-team",
+            "repo": "ionic-framework",
+            "stars": 52616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "appium/appium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:25:51Z",
+            "owner": "appium",
+            "repo": "appium",
+            "stars": 21854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-sql-driver/mysql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T05:38:47Z",
+            "owner": "go-sql-driver",
+            "repo": "mysql",
+            "stars": 15278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theos/theos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-08T07:04:06Z",
+            "owner": "theos",
+            "repo": "theos",
+            "stars": 4902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-translate/angular-translate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-21T17:35:33Z",
+            "owner": "angular-translate",
+            "repo": "angular-translate",
+            "stars": 4276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "urigo/angular-meteor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-05-02T13:59:03Z",
+            "owner": "Urigo",
+            "repo": "angular-meteor",
+            "stars": 2335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bchavez/rethinkdb.driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-12T16:08:37Z",
+            "owner": "bchavez",
+            "repo": "RethinkDb.Driver",
+            "stars": 381
+          }
+        }
+      ],
+      "title": ":rocket: Templates for Pull Requests"
+    },
+    {
+      "description": "Public Domain, Zeno Rocha",
+      "items": [],
+      "title": ":pencil: License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:19.499Z",
+    "original_repository": "devspace/awesome-github-templates",
+    "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
+    "enhanced_repository": "enhansome/enhansome-github-templates",
+    "enhanced_repository_description": null,
+    "title": "Awesome GitHub Issues & PRs Templates with stars"
+  }
+}
