@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:06:42Z",
+            "last_commit": "2026-08-14T02:47:41Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52617
+            "stars": 52615
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:52:39Z",
+            "last_commit": "2026-08-14T12:07:27Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21853
+            "stars": 21855
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4902
+            "stars": 4903
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4276
+            "stars": 4275
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:06:42Z",
+            "last_commit": "2026-08-14T02:47:41Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52617
+            "stars": 52615
           }
         },
         {
@@ -185,10 +185,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:52:39Z",
+            "last_commit": "2026-08-14T12:07:27Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21853
+            "stars": 21855
           }
         },
         {
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-07T05:38:47Z",
+            "last_commit": "2026-08-14T07:42:05Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15276
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4902
+            "stars": 4903
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4276
+            "stars": 4275
           }
         },
         {
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:54:24.421Z",
+    "last_updated": "2026-08-14T13:50:15.240Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
