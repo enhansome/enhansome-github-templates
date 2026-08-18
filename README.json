@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T16:50:50Z",
+            "last_commit": "2026-08-18T13:12:20Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52620
+            "stars": 52618
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-02T03:04:41Z",
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22023
+            "stars": 22022
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:25:57Z",
+            "last_commit": "2026-08-18T06:29:42Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21858
+            "stars": 21860
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20833
+            "stars": 20832
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4907
+            "stars": 4908
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4275
+            "stars": 4274
           }
         },
         {
@@ -171,10 +171,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T16:50:50Z",
+            "last_commit": "2026-08-18T13:12:20Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52620
+            "stars": 52618
           }
         },
         {
@@ -185,10 +185,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T06:25:57Z",
+            "last_commit": "2026-08-18T06:29:42Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21858
+            "stars": 21860
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4907
+            "stars": 4908
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4275
+            "stars": 4274
           }
         },
         {
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:12:32.434Z",
+    "last_updated": "2026-08-18T13:14:46.917Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
