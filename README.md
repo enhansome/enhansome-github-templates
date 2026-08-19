@@ -13,7 +13,7 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,618 | 🐛 610 | 🌐 TypeScript | 📅 2026-08-19
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,621 | 🐛 611 | 🌐 TypeScript | 📅 2026-08-19
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,022 | 🐛 86 | 🌐 HTML | 📅 2026-04-02
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,868 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-19
 * [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,832 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17
@@ -29,7 +29,7 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,618 | 🐛 610 | 🌐 TypeScript | 📅 2026-08-19
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,621 | 🐛 611 | 🌐 TypeScript | 📅 2026-08-19
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,868 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-19
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,268 | 🐛 72 | 🌐 Go | 📅 2026-08-14
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,909 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
