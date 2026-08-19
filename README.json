@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Find more files",
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:12:20Z",
+            "last_commit": "2026-08-19T12:27:23Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52618
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5532320,
             "language": "HTML",
             "last_commit": "2026-04-02T03:04:41Z",
             "owner": "Polymer",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:29:42Z",
+            "last_commit": "2026-08-19T09:50:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21860
+            "stars": 21868
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26820798,
             "language": "JavaScript",
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501976,
             "language": "Makefile",
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9076111,
             "language": "JavaScript",
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23021810,
             "language": "Dockerfile",
             "last_commit": "2023-05-02T13:59:03Z",
             "owner": "Urigo",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16228229,
             "language": "C++",
             "last_commit": "2021-11-10T15:03:53Z",
             "owner": "EddyVerbruggen",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41053708,
             "language": "C#",
             "last_commit": "2020-12-12T16:08:37Z",
             "owner": "bchavez",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17152679,
             "language": null,
             "last_commit": "2018-06-17T18:38:38Z",
             "owner": "codeforamerica",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118353543,
             "language": "TypeScript",
             "last_commit": "2021-04-29T20:10:49Z",
             "owner": "growcss",
@@ -161,7 +172,7 @@
       "title": ":bomb: Templates for Issues"
     },
     {
-      "description": "",
+      "description": "Find more files",
       "items": [
         {
           "node_type": "item",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:12:20Z",
+            "last_commit": "2026-08-19T12:27:23Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52618
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:29:42Z",
+            "last_commit": "2026-08-19T09:50:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21860
+            "stars": 21868
           }
         },
         {
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7083242,
             "language": "Go",
             "last_commit": "2026-08-14T07:42:05Z",
             "owner": "go-sql-driver",
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501976,
             "language": "Makefile",
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4908
+            "stars": 4909
           }
         },
         {
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9076111,
             "language": "JavaScript",
             "last_commit": "2024-01-21T17:35:33Z",
             "owner": "angular-translate",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23021810,
             "language": "Dockerfile",
             "last_commit": "2023-05-02T13:59:03Z",
             "owner": "Urigo",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41053708,
             "language": "C#",
             "last_commit": "2020-12-12T16:08:37Z",
             "owner": "bchavez",
@@ -263,16 +281,12 @@
         }
       ],
       "title": ":rocket: Templates for Pull Requests"
-    },
-    {
-      "description": "Public Domain, Zeno Rocha",
-      "items": [],
-      "title": ":pencil: License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:14:46.917Z",
+    "last_updated": "2026-08-19T12:29:32.606Z",
     "original_repository": "devspace/awesome-github-templates",
+    "original_repository_id": 51965071,
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
     "enhanced_repository_description": null,
