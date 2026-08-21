@@ -12,7 +12,7 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T13:16:29Z",
+            "last_commit": "2026-08-21T04:34:19Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52621
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-02T03:04:41Z",
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22021
+            "stars": 22022
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:28:08Z",
+            "last_commit": "2026-08-21T08:20:56Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21874
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20832
+            "stars": 20831
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4909
+            "stars": 4910
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T13:16:29Z",
+            "last_commit": "2026-08-21T04:34:19Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52621
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T08:28:08Z",
+            "last_commit": "2026-08-21T08:20:56Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21874
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 7083242,
             "language": "Go",
-            "last_commit": "2026-08-14T07:42:05Z",
+            "last_commit": "2026-08-20T21:34:52Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15269
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4909
+            "stars": 4910
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:24:10.559Z",
+    "last_updated": "2026-08-21T13:23:46.158Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_id": 51965071,
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
