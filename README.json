@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:11:45Z",
+            "last_commit": "2026-08-24T03:12:14Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52624
+            "stars": 52628
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-02T03:04:41Z",
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22020
+            "stars": 22019
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T09:03:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21879
+            "stars": 21881
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:11:45Z",
+            "last_commit": "2026-08-24T03:12:14Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52624
+            "stars": 52628
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-23T09:03:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21879
+            "stars": 21881
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-20T21:34:52Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15271
+            "stars": 15272
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:07:18.720Z",
+    "last_updated": "2026-08-24T13:27:52.275Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_id": 51965071,
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
