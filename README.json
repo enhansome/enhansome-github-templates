@@ -42,7 +42,7 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:03:21Z",
+            "last_commit": "2026-08-24T13:45:58Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21881
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:03:21Z",
+            "last_commit": "2026-08-24T13:45:58Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21881
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:27:52.275Z",
+    "last_updated": "2026-08-24T14:07:05.814Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_id": 51965071,
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
