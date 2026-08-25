@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T20:30:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
+            "stars": 52633
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-02T03:04:41Z",
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22019
+            "stars": 22018
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:20:17Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21883
+            "stars": 21886
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-24T20:30:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
+            "stars": 52633
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T05:20:17Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21883
+            "stars": 21886
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:02.983Z",
+    "last_updated": "2026-08-25T13:24:57.548Z",
     "original_repository": "devspace/awesome-github-templates",
     "original_repository_id": 51965071,
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
