@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:04:42Z",
+            "last_commit": "2026-08-27T00:55:36Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52630
+            "stars": 52632
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T18:17:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21897
+            "stars": 21903
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830
+            "stars": 20831
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4910
+            "stars": 4911
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T22:04:42Z",
+            "last_commit": "2026-08-27T00:55:36Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52630
+            "stars": 52632
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T18:17:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21897
+            "stars": 21903
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-08T07:04:06Z",
             "owner": "theos",
             "repo": "theos",
-            "stars": 4910
+            "stars": 4911
           }
         },
         {
@@ -284,9 +284,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:30:33.069Z",
-    "original_repository": "devspace/awesome-github-templates",
-    "original_repository_id": 51965071,
+    "last_updated": "2026-08-27T11:43:20.577Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 51965071,
+      "language": null,
+      "last_commit": "2023-07-03T07:04:21Z",
+      "owner": "devspace",
+      "repo": "awesome-github-templates",
+      "stars": 2313
+    },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
     "enhanced_repository_description": null,
