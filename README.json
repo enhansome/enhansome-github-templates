@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:55:36Z",
+            "last_commit": "2026-08-27T21:54:33Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
+            "stars": 52633
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T18:17:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21903
+            "stars": 21904
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:55:36Z",
+            "last_commit": "2026-08-27T21:54:33Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
+            "stars": 52633
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-25T18:17:21Z",
             "owner": "appium",
             "repo": "appium",
-            "stars": 21903
+            "stars": 21904
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 7083242,
             "language": "Go",
-            "last_commit": "2026-08-20T21:34:52Z",
+            "last_commit": "2026-08-27T16:17:38Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15273
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:20.577Z",
+    "last_updated": "2026-08-27T22:26:36.338Z",
     "original_repository_info": {
       "archived": false,
       "id": 51965071,
@@ -292,7 +292,7 @@
       "last_commit": "2023-07-03T07:04:21Z",
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2313
+      "stars": 2314
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
