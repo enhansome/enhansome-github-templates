@@ -12,11 +12,12 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:54:33Z",
+            "last_commit": "2026-08-28T20:43:57Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52633
-          }
+            "stars": 52631
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Polymer",
             "repo": "polymer",
             "stars": 22017
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:17:21Z",
+            "last_commit": "2026-08-28T14:11:40Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21904
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20831
-          }
+            "stars": 20830
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "theos",
             "repo": "theos",
             "stars": 4911
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "angular-translate",
             "repo": "angular-translate",
             "stars": 4274
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Urigo",
             "repo": "angular-meteor",
             "stars": 2335
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "EddyVerbruggen",
             "repo": "Toast-PhoneGap-Plugin",
             "stars": 508
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "codeforamerica",
             "repo": "howto",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "growcss",
             "repo": "growcss",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         }
       ],
       "title": ":bomb: Templates for Issues"
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:54:33Z",
+            "last_commit": "2026-08-28T20:43:57Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52633
-          }
+            "stars": 52631
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 7530570,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:17:21Z",
+            "last_commit": "2026-08-28T14:11:40Z",
             "owner": "appium",
             "repo": "appium",
             "stars": 21904
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-27T16:17:38Z",
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15273
-          }
+            "stars": 15272
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "theos",
             "repo": "theos",
             "stars": 4911
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "angular-translate",
             "repo": "angular-translate",
             "stars": 4274
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "Urigo",
             "repo": "angular-meteor",
             "stars": 2335
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         },
         {
           "node_type": "item",
@@ -277,14 +294,15 @@
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
             "stars": 381
-          }
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
         }
       ],
       "title": ":rocket: Templates for Pull Requests"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:26:36.338Z",
+    "last_updated": "2026-08-28T22:29:46.573Z",
     "original_repository_info": {
       "archived": false,
       "id": 51965071,
