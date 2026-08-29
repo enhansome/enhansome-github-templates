@@ -10,12 +10,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+            "homepage": "https://ionicframework.com",
             "id": 12256376,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:43:57Z",
+            "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52631
+            "stars": 52631,
+            "topics": [
+              "angular",
+              "capacitor",
+              "framework",
+              "frontend",
+              "ionic",
+              "ios",
+              "javascript",
+              "material-design",
+              "mobile",
+              "pwa",
+              "react",
+              "stencil",
+              "stenciljs",
+              "typescript",
+              "ui-components",
+              "vue",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -26,12 +50,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our original Web Component library.",
+            "homepage": "https://polymer-library.polymer-project.org/",
             "id": 5532320,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-02T03:04:41Z",
+            "open_issues": 86,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22017
+            "stars": 22017,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -42,12 +71,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+            "homepage": "http://appium.io/",
             "id": 7530570,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:11:40Z",
+            "open_issues": 62,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21904
+            "stars": 21904,
+            "topics": [
+              "android",
+              "appium",
+              "automation",
+              "ios",
+              "macos",
+              "test-automation",
+              "webdriver",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -58,12 +101,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js test runner that lets you develop with confidence 🚀",
+            "homepage": null,
             "id": 26820798,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T10:19:10Z",
+            "open_issues": 73,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830
+            "stars": 20830,
+            "topics": [
+              "assert",
+              "async",
+              "async-functions",
+              "ava",
+              "cli",
+              "cli-app",
+              "concurrency",
+              "javascript",
+              "node",
+              "nodejs",
+              "performance",
+              "tap",
+              "tdd",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "unicorns",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -74,12 +141,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform suite of tools for building and deploying software for iOS and other platforms.",
+            "homepage": "https://theos.dev",
             "id": 501976,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:04:06Z",
+            "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4911
+            "stars": 4911,
+            "topics": [
+              "build-system",
+              "ios",
+              "linux",
+              "macos",
+              "makefile",
+              "perl",
+              "theos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -90,12 +171,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED Translating your AngularJS 1.x apps",
+            "homepage": "https://angular-translate.github.io",
             "id": 9076111,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-21T17:35:33Z",
+            "open_issues": 36,
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4274
+            "stars": 4274,
+            "topics": [
+              "angularjs",
+              "bower",
+              "i18n",
+              "javascript",
+              "npm-package",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -106,12 +199,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular and Meteor - The perfect stack",
+            "homepage": "https://www.angular-meteor.com/",
             "id": 23021810,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2023-05-02T13:59:03Z",
+            "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2335
+            "stars": 2335,
+            "topics": [
+              "angular",
+              "angular-meteor",
+              "angular2-meteor",
+              "angularjs",
+              "meteor",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -122,12 +227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":beers: A Toast popup plugin for your fancy Cordova app",
+            "homepage": null,
             "id": 16228229,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-11-10T15:03:53Z",
+            "open_issues": 41,
             "owner": "EddyVerbruggen",
             "repo": "Toast-PhoneGap-Plugin",
-            "stars": 508
+            "stars": 508,
+            "topics": [
+              "cordova",
+              "phonegap",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -138,12 +252,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":headphones: A NoSQL C#/.NET RethinkDB database driver with 100% ReQL API coverage.",
+            "homepage": "http://rethinkdb.com/api/java",
             "id": 41053708,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-12T16:08:37Z",
+            "open_issues": 24,
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "c-sharp",
+              "csharp",
+              "document-database",
+              "driver",
+              "hacktoberfest",
+              "kick-ass",
+              "nosql",
+              "regrid",
+              "reql",
+              "rethinkdb"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -154,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How To Do Things",
+            "homepage": null,
             "id": 17152679,
             "language": null,
+            "license": null,
             "last_commit": "2018-06-17T18:38:38Z",
+            "open_issues": 25,
             "owner": "codeforamerica",
             "repo": "howto",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -170,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":monkey_face: GrowCss is a simple, flexible and extensible modular frontend framework for react.",
+            "homepage": "https://growcss.com",
             "id": 118353543,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-04-29T20:10:49Z",
+            "open_issues": 1,
             "owner": "growcss",
             "repo": "growcss",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         }
@@ -192,12 +332,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+            "homepage": "https://ionicframework.com",
             "id": 12256376,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:43:57Z",
+            "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52631
+            "stars": 52631,
+            "topics": [
+              "angular",
+              "capacitor",
+              "framework",
+              "frontend",
+              "ionic",
+              "ios",
+              "javascript",
+              "material-design",
+              "mobile",
+              "pwa",
+              "react",
+              "stencil",
+              "stenciljs",
+              "typescript",
+              "ui-components",
+              "vue",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -208,12 +372,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+            "homepage": "http://appium.io/",
             "id": 7530570,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:11:40Z",
+            "open_issues": 62,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21904
+            "stars": 21904,
+            "topics": [
+              "android",
+              "appium",
+              "automation",
+              "ios",
+              "macos",
+              "test-automation",
+              "webdriver",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -224,12 +402,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+            "homepage": "https://pkg.go.dev/github.com/go-sql-driver/mysql",
             "id": 7083242,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-27T16:17:38Z",
+            "open_issues": 73,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15272
+            "stars": 15272,
+            "topics": [
+              "database",
+              "go",
+              "mariadb",
+              "mysql",
+              "mysql-driver",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -240,12 +430,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform suite of tools for building and deploying software for iOS and other platforms.",
+            "homepage": "https://theos.dev",
             "id": 501976,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T07:04:06Z",
+            "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4911
+            "stars": 4911,
+            "topics": [
+              "build-system",
+              "ios",
+              "linux",
+              "macos",
+              "makefile",
+              "perl",
+              "theos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -256,12 +460,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED Translating your AngularJS 1.x apps",
+            "homepage": "https://angular-translate.github.io",
             "id": 9076111,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-21T17:35:33Z",
+            "open_issues": 36,
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4274
+            "stars": 4274,
+            "topics": [
+              "angularjs",
+              "bower",
+              "i18n",
+              "javascript",
+              "npm-package",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -272,12 +488,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular and Meteor - The perfect stack",
+            "homepage": "https://www.angular-meteor.com/",
             "id": 23021810,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2023-05-02T13:59:03Z",
+            "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2335
+            "stars": 2335,
+            "topics": [
+              "angular",
+              "angular-meteor",
+              "angular2-meteor",
+              "angularjs",
+              "meteor",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -288,12 +516,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":headphones: A NoSQL C#/.NET RethinkDB database driver with 100% ReQL API coverage.",
+            "homepage": "http://rethinkdb.com/api/java",
             "id": 41053708,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-12T16:08:37Z",
+            "open_issues": 24,
             "owner": "bchavez",
             "repo": "RethinkDb.Driver",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "c-sharp",
+              "csharp",
+              "document-database",
+              "driver",
+              "hacktoberfest",
+              "kick-ass",
+              "nosql",
+              "regrid",
+              "reql",
+              "rethinkdb"
+            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         }
@@ -302,15 +546,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:29:46.573Z",
+    "last_updated": "2026-08-29T04:23:41.150Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
+      "homepage": null,
       "id": 51965071,
       "language": null,
+      "license": null,
       "last_commit": "2023-07-03T07:04:21Z",
+      "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2314
+      "stars": 2314,
+      "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
     "enhanced_repository": "enhansome/enhansome-github-templates",
