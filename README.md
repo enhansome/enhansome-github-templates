@@ -13,13 +13,13 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,650 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-09
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,657 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-10
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,018 | 🐛 85 | 🌐 HTML | 📅 2026-04-02
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,939 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-09
-* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,826 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,947 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,825 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,916 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md) ⚠️ Archived
-* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 2,333 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
+* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 2,334 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
 * [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md) ⭐ 508 | 🐛 41 | 🌐 C++ | 📅 2021-11-10
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/tree/master/.github/ISSUE_TEMPLATE) ⭐ 381 | 🐛 24 | 🌐 C# | 📅 2020-12-12
 * [codeforamerica/howto](https://github.com/codeforamerica/howto/blob/master/issue_template.md) ⭐ 174 | 🐛 25 | 📅 2018-06-17
@@ -29,12 +29,12 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,650 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-09
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,939 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-09
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,282 | 🐛 58 | 🌐 Go | 📅 2026-09-06
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,657 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-10
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,947 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,283 | 🐛 58 | 🌐 Go | 📅 2026-09-06
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,916 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
-* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,333 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
+* [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,334 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 381 | 🐛 24 | 🌐 C# | 📅 2020-12-12
 
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93\&q=in%3Apath+pull_request_template.md\&type=Code\&ref=searchresults)
@@ -53,4 +53,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
