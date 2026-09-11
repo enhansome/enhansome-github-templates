@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T13:23:15Z",
+            "last_commit": "2026-09-11T14:51:37Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52657,
+            "stars": 52658,
             "topics": [
               "angular",
               "capacitor",
@@ -76,11 +76,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T16:32:44Z",
+            "last_commit": "2026-09-11T16:37:02Z",
             "open_issues": 52,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21947,
+            "stars": 21950,
             "topics": [
               "android",
               "appium",
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T13:23:15Z",
+            "last_commit": "2026-09-11T14:51:37Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52657,
+            "stars": 52658,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T16:32:44Z",
+            "last_commit": "2026-09-11T16:37:02Z",
             "open_issues": 52,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21947,
+            "stars": 21950,
             "topics": [
               "android",
               "appium",
@@ -411,7 +411,7 @@
             "open_issues": 58,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15283,
+            "stars": 15284,
             "topics": [
               "database",
               "go",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T16:32:53.623Z",
+    "last_updated": "2026-09-11T16:37:24.818Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
