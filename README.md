@@ -1,6 +1,6 @@
 # Awesome GitHub Issues & PRs Templates with stars
 
-> [GitHub listened](https://github.com/dear-github/dear-github) ⭐ 5,160 | 🐛 278 | 📅 2020-11-20 and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
+> [GitHub listened](https://github.com/dear-github/dear-github) ⭐ 5,159 | 🐛 278 | 📅 2020-11-20 and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
 > This is a curated list of templates that can offer inspiration for your project. An awesome template is one that informs contributors how to proceed in a very detailed or unique way.
 
@@ -13,11 +13,11 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,658 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,656 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,018 | 🐛 85 | 🌐 HTML | 📅 2026-04-02
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,950 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-11
-* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,825 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
-* [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,916 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,953 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-12
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,826 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
+* [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,918 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 2,334 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
 * [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md) ⭐ 508 | 🐛 41 | 🌐 C++ | 📅 2021-11-10
@@ -29,10 +29,10 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,658 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,950 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-11
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,284 | 🐛 58 | 🌐 Go | 📅 2026-09-06
-* [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,916 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,656 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,953 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-12
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,282 | 🐛 58 | 🌐 Go | 📅 2026-09-06
+* [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,918 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,334 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 381 | 🐛 24 | 🌐 C# | 📅 2020-12-12
@@ -45,7 +45,7 @@
 
 ## :grimacing: Template Collections
 
-* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,464 | 🐛 6 | 📅 2024-03-20
+* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,465 | 🐛 6 | 📅 2024-03-20
 
 ## :pencil: License
 
@@ -53,4 +53,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

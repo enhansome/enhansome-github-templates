@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:51:37Z",
+            "last_commit": "2026-09-11T22:27:45Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52658,
+            "stars": 52656,
             "topics": [
               "angular",
               "capacitor",
@@ -76,11 +76,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:37:02Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-12T11:17:40Z",
+            "open_issues": 50,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21950,
+            "stars": 21953,
             "topics": [
               "android",
               "appium",
@@ -110,7 +110,7 @@
             "open_issues": 74,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20825,
+            "stars": 20826,
             "topics": [
               "assert",
               "async",
@@ -150,7 +150,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4916,
+            "stars": 4918,
             "topics": [
               "build-system",
               "ios",
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:51:37Z",
+            "last_commit": "2026-09-11T22:27:45Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52658,
+            "stars": 52656,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:37:02Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-12T11:17:40Z",
+            "open_issues": 50,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21950,
+            "stars": 21953,
             "topics": [
               "android",
               "appium",
@@ -411,7 +411,7 @@
             "open_issues": 58,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15284,
+            "stars": 15282,
             "topics": [
               "database",
               "go",
@@ -439,7 +439,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4916,
+            "stars": 4918,
             "topics": [
               "build-system",
               "ios",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:37:24.818Z",
+    "last_updated": "2026-09-12T15:39:03.404Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
