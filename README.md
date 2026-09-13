@@ -13,9 +13,9 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,656 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,663 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,018 | 🐛 85 | 🌐 HTML | 📅 2026-04-02
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,953 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-12
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 21,954 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-13
 * [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,826 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,918 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md) ⚠️ Archived
@@ -29,8 +29,8 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,656 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,953 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-12
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,663 | 🐛 596 | 🌐 TypeScript | 📅 2026-09-11
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 21,954 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-13
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,282 | 🐛 58 | 🌐 Go | 📅 2026-09-06
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,918 | 🐛 72 | 🌐 Makefile | 📅 2026-08-08
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
@@ -45,7 +45,7 @@
 
 ## :grimacing: Template Collections
 
-* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,465 | 🐛 6 | 📅 2024-03-20
+* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,464 | 🐛 6 | 📅 2024-03-20
 
 ## :pencil: License
 
@@ -53,4 +53,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

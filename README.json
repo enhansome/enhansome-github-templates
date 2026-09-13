@@ -19,7 +19,7 @@
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52656,
+            "stars": 52663,
             "topics": [
               "angular",
               "capacitor",
@@ -76,11 +76,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T11:17:40Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-13T16:28:04Z",
+            "open_issues": 48,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21953,
+            "stars": 21954,
             "topics": [
               "android",
               "appium",
@@ -341,7 +341,7 @@
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52656,
+            "stars": 52663,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T11:17:40Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-13T16:28:04Z",
+            "open_issues": 48,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21953,
+            "stars": 21954,
             "topics": [
               "android",
               "appium",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:39:03.404Z",
+    "last_updated": "2026-09-13T16:29:44.659Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
