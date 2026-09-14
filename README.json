@@ -15,7 +15,7 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:27:45Z",
+            "last_commit": "2026-09-14T18:03:51Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
@@ -59,7 +59,7 @@
             "open_issues": 85,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22018,
+            "stars": 22016,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -76,11 +76,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:28:04Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-14T16:10:34Z",
+            "open_issues": 50,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21954,
+            "stars": 21963,
             "topics": [
               "android",
               "appium",
@@ -337,7 +337,7 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:27:45Z",
+            "last_commit": "2026-09-14T18:03:51Z",
             "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T16:28:04Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-14T16:10:34Z",
+            "open_issues": 50,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21954,
+            "stars": 21963,
             "topics": [
               "android",
               "appium",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:29:44.659Z",
+    "last_updated": "2026-09-14T18:06:31.305Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2317,
+      "stars": 2316,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
