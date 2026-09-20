@@ -19,7 +19,7 @@
             "open_issues": 590,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52668,
+            "stars": 52671,
             "topics": [
               "angular",
               "capacitor",
@@ -59,7 +59,7 @@
             "open_issues": 85,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22015,
+            "stars": 22018,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -76,8 +76,8 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T10:24:51Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-20T14:25:16Z",
+            "open_issues": 46,
             "owner": "appium",
             "repo": "appium",
             "stars": 21990,
@@ -110,7 +110,7 @@
             "open_issues": 78,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20829,
+            "stars": 20828,
             "topics": [
               "assert",
               "async",
@@ -341,7 +341,7 @@
             "open_issues": 590,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52668,
+            "stars": 52671,
             "topics": [
               "angular",
               "capacitor",
@@ -377,8 +377,8 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T10:24:51Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-20T14:25:16Z",
+            "open_issues": 46,
             "owner": "appium",
             "repo": "appium",
             "stars": 21990,
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T15:58:07.299Z",
+    "last_updated": "2026-09-20T16:18:40.798Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2319,
+      "stars": 2320,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
