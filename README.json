@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:24:11Z",
-            "open_issues": 590,
+            "last_commit": "2026-09-21T18:13:55Z",
+            "open_issues": 588,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52671,
+            "stars": 52673,
             "topics": [
               "angular",
               "capacitor",
@@ -76,11 +76,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T14:25:16Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-21T15:18:35Z",
+            "open_issues": 47,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21990,
+            "stars": 21996,
             "topics": [
               "android",
               "appium",
@@ -110,7 +110,7 @@
             "open_issues": 78,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20828,
+            "stars": 20827,
             "topics": [
               "assert",
               "async",
@@ -150,7 +150,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4918,
+            "stars": 4917,
             "topics": [
               "build-system",
               "ios",
@@ -180,7 +180,7 @@
             "open_issues": 36,
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4272,
+            "stars": 4271,
             "topics": [
               "angularjs",
               "bower",
@@ -208,7 +208,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2334,
+            "stars": 2333,
             "topics": [
               "angular",
               "angular-meteor",
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:24:11Z",
-            "open_issues": 590,
+            "last_commit": "2026-09-21T18:13:55Z",
+            "open_issues": 588,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52671,
+            "stars": 52673,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T14:25:16Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-21T15:18:35Z",
+            "open_issues": 47,
             "owner": "appium",
             "repo": "appium",
-            "stars": 21990,
+            "stars": 21996,
             "topics": [
               "android",
               "appium",
@@ -411,7 +411,7 @@
             "open_issues": 58,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15283,
+            "stars": 15284,
             "topics": [
               "database",
               "go",
@@ -439,7 +439,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4918,
+            "stars": 4917,
             "topics": [
               "build-system",
               "ios",
@@ -469,7 +469,7 @@
             "open_issues": 36,
             "owner": "angular-translate",
             "repo": "angular-translate",
-            "stars": 4272,
+            "stars": 4271,
             "topics": [
               "angularjs",
               "bower",
@@ -497,7 +497,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2334,
+            "stars": 2333,
             "topics": [
               "angular",
               "angular-meteor",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:18:40.798Z",
+    "last_updated": "2026-09-21T18:14:30.871Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
