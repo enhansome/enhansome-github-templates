@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:30:02Z",
-            "open_issues": 584,
+            "last_commit": "2026-09-28T18:33:26Z",
+            "open_issues": 582,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52684,
+            "stars": 52686,
             "topics": [
               "angular",
               "capacitor",
@@ -45,6 +45,36 @@
         },
         {
           "node_type": "item",
+          "title": "appium/appium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+            "homepage": "http://appium.io/",
+            "id": 7530570,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-28T06:08:37Z",
+            "open_issues": 48,
+            "owner": "appium",
+            "repo": "appium",
+            "stars": 22020,
+            "topics": [
+              "android",
+              "appium",
+              "automation",
+              "ios",
+              "macos",
+              "test-automation",
+              "webdriver",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-08-28T22:29:46.573Z"
+        },
+        {
+          "node_type": "item",
           "title": "polymer/polymer",
           "description": null,
           "children": [],
@@ -61,36 +91,6 @@
             "repo": "polymer",
             "stars": 22019,
             "topics": []
-          },
-          "first_seen": "2026-08-28T22:29:46.573Z"
-        },
-        {
-          "node_type": "item",
-          "title": "appium/appium",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
-            "homepage": "http://appium.io/",
-            "id": 7530570,
-            "language": "TypeScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-27T12:26:27Z",
-            "open_issues": 49,
-            "owner": "appium",
-            "repo": "appium",
-            "stars": 22012,
-            "topics": [
-              "android",
-              "appium",
-              "automation",
-              "ios",
-              "macos",
-              "test-automation",
-              "webdriver",
-              "windows"
-            ]
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
         },
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:30:02Z",
-            "open_issues": 584,
+            "last_commit": "2026-09-28T18:33:26Z",
+            "open_issues": 582,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52684,
+            "stars": 52686,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T12:26:27Z",
-            "open_issues": 49,
+            "last_commit": "2026-09-28T06:08:37Z",
+            "open_issues": 48,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22012,
+            "stars": 22020,
             "topics": [
               "android",
               "appium",
@@ -411,7 +411,7 @@
             "open_issues": 60,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15285,
+            "stars": 15286,
             "topics": [
               "database",
               "go",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:05:18.390Z",
+    "last_updated": "2026-09-28T19:44:21.645Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2320,
+      "stars": 2321,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
