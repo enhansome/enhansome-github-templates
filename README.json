@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "driftyco/ionic",
-          "description": null,
+          "description": "ionic-team/ionic-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,8 +15,8 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:44:23Z",
-            "open_issues": 572,
+            "last_commit": "2026-10-02T22:56:52Z",
+            "open_issues": 575,
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52685,
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "appium/appium",
-          "description": null,
+          "description": "appium/appium",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -55,11 +55,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:24:44Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-03T00:24:04Z",
+            "open_issues": 49,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22037,
+            "stars": 22039,
             "topics": [
               "android",
               "appium",
@@ -76,7 +76,7 @@
         {
           "node_type": "item",
           "title": "polymer/polymer",
-          "description": null,
+          "description": "Polymer/polymer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -97,7 +97,7 @@
         {
           "node_type": "item",
           "title": "sindresorhus/ava",
-          "description": null,
+          "description": "avajs/ava",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-17T10:19:10Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "avajs",
             "repo": "ava",
             "stars": 20822,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "theos/theos",
-          "description": null,
+          "description": "theos/theos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4924,
+            "stars": 4923,
             "topics": [
               "build-system",
               "ios",
@@ -167,7 +167,7 @@
         {
           "node_type": "item",
           "title": "angular-translate/angular-translate",
-          "description": null,
+          "description": "angular-translate/angular-translate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "urigo/angular-meteor",
-          "description": null,
+          "description": "Urigo/angular-meteor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "eddyverbruggen/toast-phonegap-plugin",
-          "description": null,
+          "description": "EddyVerbruggen/Toast-PhoneGap-Plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "bchavez/rethinkdb.driver",
-          "description": null,
+          "description": "bchavez/RethinkDb.Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "codeforamerica/howto",
-          "description": null,
+          "description": "codeforamerica/howto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,7 +301,7 @@
         {
           "node_type": "item",
           "title": "growcss/growcss",
-          "description": null,
+          "description": "growcss/growcss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "driftyco/ionic",
-          "description": null,
+          "description": "ionic-team/ionic-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -337,8 +337,8 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:44:23Z",
-            "open_issues": 572,
+            "last_commit": "2026-10-02T22:56:52Z",
+            "open_issues": 575,
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52685,
@@ -368,7 +368,7 @@
         {
           "node_type": "item",
           "title": "appium/appium",
-          "description": null,
+          "description": "appium/appium",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:24:44Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-03T00:24:04Z",
+            "open_issues": 49,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22037,
+            "stars": 22039,
             "topics": [
               "android",
               "appium",
@@ -398,7 +398,7 @@
         {
           "node_type": "item",
           "title": "go-sql-driver/mysql",
-          "description": null,
+          "description": "go-sql-driver/mysql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "theos/theos",
-          "description": null,
+          "description": "theos/theos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -439,7 +439,7 @@
             "open_issues": 72,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4924,
+            "stars": 4923,
             "topics": [
               "build-system",
               "ios",
@@ -456,7 +456,7 @@
         {
           "node_type": "item",
           "title": "angular-translate/angular-translate",
-          "description": null,
+          "description": "angular-translate/angular-translate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -484,7 +484,7 @@
         {
           "node_type": "item",
           "title": "urigo/angular-meteor",
-          "description": null,
+          "description": "Urigo/angular-meteor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +512,7 @@
         {
           "node_type": "item",
           "title": "bchavez/rethinkdb.driver",
-          "description": null,
+          "description": "bchavez/RethinkDb.Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:55:46.844Z",
+    "last_updated": "2026-10-03T04:48:03.349Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2322,
+      "stars": 2321,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
