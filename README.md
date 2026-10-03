@@ -13,8 +13,8 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,685 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,039 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-03
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,686 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,040 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-03
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,019 | 🐛 85 | 🌐 HTML | 📅 2026-04-02
 * [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,822 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-17
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,923 | 🐛 72 | 🌐 Makefile | 📅 2026-09-18
@@ -29,9 +29,9 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,685 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,039 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-03
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,276 | 🐛 60 | 🌐 Go | 📅 2026-09-19
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,686 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,040 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-03
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,276 | 🐛 62 | 🌐 Go | 📅 2026-10-03
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,923 | 🐛 72 | 🌐 Makefile | 📅 2026-09-18
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,333 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
