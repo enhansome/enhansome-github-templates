@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T02:38:40Z",
-            "open_issues": 519,
+            "open_issues": 531,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52705,
+            "stars": 52709,
             "topics": [
               "angular",
               "capacitor",
@@ -55,11 +55,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T11:07:02Z",
+            "last_commit": "2026-10-18T12:58:30Z",
             "open_issues": 57,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22092,
+            "stars": 22097,
             "topics": [
               "android",
               "appium",
@@ -89,7 +89,7 @@
             "open_issues": 85,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22010,
+            "stars": 22009,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -338,10 +338,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T02:38:40Z",
-            "open_issues": 519,
+            "open_issues": 531,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52705,
+            "stars": 52709,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T11:07:02Z",
+            "last_commit": "2026-10-18T12:58:30Z",
             "open_issues": 57,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22092,
+            "stars": 22097,
             "topics": [
               "android",
               "appium",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:45:08.589Z",
+    "last_updated": "2026-10-18T16:00:56.689Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
