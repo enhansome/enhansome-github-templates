@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:30:14Z",
-            "open_issues": 517,
+            "last_commit": "2026-10-27T17:39:14Z",
+            "open_issues": 516,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52722,
+            "stars": 52723,
             "topics": [
               "angular",
               "capacitor",
@@ -55,11 +55,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T13:08:34Z",
+            "last_commit": "2026-10-27T16:02:07Z",
             "open_issues": 55,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22130,
+            "stars": 22146,
             "topics": [
               "android",
               "appium",
@@ -89,7 +89,7 @@
             "open_issues": 86,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22011,
+            "stars": 22010,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -110,7 +110,7 @@
             "open_issues": 76,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20825,
+            "stars": 20824,
             "topics": [
               "assert",
               "async",
@@ -150,7 +150,7 @@
             "open_issues": 68,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4937,
+            "stars": 4938,
             "topics": [
               "build-system",
               "ios",
@@ -208,7 +208,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2331,
+            "stars": 2330,
             "topics": [
               "angular",
               "angular-meteor",
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:30:14Z",
-            "open_issues": 517,
+            "last_commit": "2026-10-27T17:39:14Z",
+            "open_issues": 516,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52722,
+            "stars": 52723,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T13:08:34Z",
+            "last_commit": "2026-10-27T16:02:07Z",
             "open_issues": 55,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22130,
+            "stars": 22146,
             "topics": [
               "android",
               "appium",
@@ -407,7 +407,7 @@
             "id": 7083242,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-16T10:59:53Z",
+            "last_commit": "2026-10-27T07:06:11Z",
             "open_issues": 59,
             "owner": "go-sql-driver",
             "repo": "mysql",
@@ -439,7 +439,7 @@
             "open_issues": 68,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4937,
+            "stars": 4938,
             "topics": [
               "build-system",
               "ios",
@@ -497,7 +497,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2331,
+            "stars": 2330,
             "topics": [
               "angular",
               "angular-meteor",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T18:44:17.681Z",
+    "last_updated": "2026-10-27T18:07:38.423Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
