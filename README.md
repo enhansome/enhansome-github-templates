@@ -13,10 +13,10 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,734 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,168 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-31
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,736 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,172 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-01
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,010 | 🐛 86 | 🌐 HTML | 📅 2026-04-02
-* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,827 | 🐛 66 | 🌐 JavaScript | 📅 2026-10-27
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,827 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-31
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,942 | 🐛 69 | 🌐 Makefile | 📅 2026-10-28
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 2,330 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
@@ -29,9 +29,9 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,734 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,168 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-31
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,275 | 🐛 58 | 🌐 Go | 📅 2026-10-30
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,736 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,172 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-01
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,276 | 🐛 58 | 🌐 Go | 📅 2026-10-30
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,942 | 🐛 69 | 🌐 Makefile | 📅 2026-10-28
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,330 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
@@ -45,7 +45,7 @@
 
 ## :grimacing: Template Collections
 
-* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,478 | 🐛 6 | 📅 2024-03-20
+* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,479 | 🐛 6 | 📅 2024-03-20
 
 ## :pencil: License
 
@@ -53,4 +53,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
