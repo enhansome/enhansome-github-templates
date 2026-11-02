@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T22:28:59Z",
-            "open_issues": 515,
+            "last_commit": "2026-11-02T15:54:29Z",
+            "open_issues": 518,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52736,
+            "stars": 52735,
             "topics": [
               "angular",
               "capacitor",
@@ -55,11 +55,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T16:09:04Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-01T20:01:32Z",
+            "open_issues": 55,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22172,
+            "stars": 22175,
             "topics": [
               "android",
               "appium",
@@ -89,7 +89,7 @@
             "open_issues": 86,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22010,
+            "stars": 22011,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -110,7 +110,7 @@
             "open_issues": 60,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20827,
+            "stars": 20825,
             "topics": [
               "assert",
               "async",
@@ -150,7 +150,7 @@
             "open_issues": 69,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4942,
+            "stars": 4943,
             "topics": [
               "build-system",
               "ios",
@@ -233,7 +233,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2021-11-10T15:03:53Z",
-            "open_issues": 40,
+            "open_issues": 38,
             "owner": "EddyVerbruggen",
             "repo": "Toast-PhoneGap-Plugin",
             "stars": 509,
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T22:28:59Z",
-            "open_issues": 515,
+            "last_commit": "2026-11-02T15:54:29Z",
+            "open_issues": 518,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52736,
+            "stars": 52735,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T16:09:04Z",
-            "open_issues": 54,
+            "last_commit": "2026-11-01T20:01:32Z",
+            "open_issues": 55,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22172,
+            "stars": 22175,
             "topics": [
               "android",
               "appium",
@@ -411,7 +411,7 @@
             "open_issues": 58,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15276,
+            "stars": 15274,
             "topics": [
               "database",
               "go",
@@ -439,7 +439,7 @@
             "open_issues": 69,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4942,
+            "stars": 4943,
             "topics": [
               "build-system",
               "ios",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:59:32.890Z",
+    "last_updated": "2026-11-02T21:49:20.344Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2324,
+      "stars": 2325,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
