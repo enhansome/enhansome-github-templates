@@ -56,10 +56,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T16:41:06Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22196,
+            "stars": 22203,
             "topics": [
               "android",
               "appium",
@@ -106,8 +106,8 @@
             "id": 26820798,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T20:23:04Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-07T20:12:59Z",
+            "open_issues": 60,
             "owner": "avajs",
             "repo": "ava",
             "stars": 20828,
@@ -150,7 +150,7 @@
             "open_issues": 71,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4944,
+            "stars": 4943,
             "topics": [
               "build-system",
               "ios",
@@ -378,10 +378,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T16:41:06Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22196,
+            "stars": 22203,
             "topics": [
               "android",
               "appium",
@@ -408,10 +408,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-11-06T20:00:41Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "go-sql-driver",
             "repo": "mysql",
-            "stars": 15282,
+            "stars": 15283,
             "topics": [
               "database",
               "go",
@@ -439,7 +439,7 @@
             "open_issues": 71,
             "owner": "theos",
             "repo": "theos",
-            "stars": 4944,
+            "stars": 4943,
             "topics": [
               "build-system",
               "ios",
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:47:52.623Z",
+    "last_updated": "2026-11-08T17:58:56.795Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
@@ -558,7 +558,7 @@
       "open_issues": 12,
       "owner": "devspace",
       "repo": "awesome-github-templates",
-      "stars": 2326,
+      "stars": 2325,
       "topics": []
     },
     "original_repository_sha": "ebbb4d86cc1145fc2329ca2c92ec8ed69f61f5a1",
