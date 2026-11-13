@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T20:07:31Z",
-            "open_issues": 534,
+            "last_commit": "2026-11-13T18:46:24Z",
+            "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52753,
+            "stars": 52752,
             "topics": [
               "angular",
               "capacitor",
@@ -55,11 +55,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T14:56:26Z",
+            "last_commit": "2026-11-13T07:52:10Z",
             "open_issues": 59,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22211,
+            "stars": 22214,
             "topics": [
               "android",
               "appium",
@@ -89,7 +89,7 @@
             "open_issues": 86,
             "owner": "Polymer",
             "repo": "polymer",
-            "stars": 22011,
+            "stars": 22008,
             "topics": []
           },
           "first_seen": "2026-08-28T22:29:46.573Z"
@@ -110,7 +110,7 @@
             "open_issues": 63,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830,
+            "stars": 20828,
             "topics": [
               "assert",
               "async",
@@ -337,11 +337,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T20:07:31Z",
-            "open_issues": 534,
+            "last_commit": "2026-11-13T18:46:24Z",
+            "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52753,
+            "stars": 52752,
             "topics": [
               "angular",
               "capacitor",
@@ -377,11 +377,11 @@
             "id": 7530570,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T14:56:26Z",
+            "last_commit": "2026-11-13T07:52:10Z",
             "open_issues": 59,
             "owner": "appium",
             "repo": "appium",
-            "stars": 22211,
+            "stars": 22214,
             "topics": [
               "android",
               "appium",
@@ -408,7 +408,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-11-12T07:11:28Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "go-sql-driver",
             "repo": "mysql",
             "stars": 15287,
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:10:34.913Z",
+    "last_updated": "2026-11-13T19:54:06.448Z",
     "original_repository_info": {
       "archived": false,
       "description": ":octocat: Curated list of GitHub Issues and Pull Requests templates",
