@@ -1,6 +1,6 @@
 # Awesome GitHub Issues & PRs Templates with stars
 
-> [GitHub listened](https://github.com/dear-github/dear-github) ⭐ 5,161 | 🐛 278 | 📅 2020-11-20 and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
+> [GitHub listened](https://github.com/dear-github/dear-github) ⭐ 5,162 | 🐛 278 | 📅 2020-11-20 and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
 > This is a curated list of templates that can offer inspiration for your project. An awesome template is one that informs contributors how to proceed in a very detailed or unique way.
 
@@ -13,10 +13,10 @@
 
 ## :bomb: Templates for Issues
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,755 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,216 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-14
-* [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,006 | 🐛 86 | 🌐 HTML | 📅 2026-04-02
-* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,829 | 🐛 63 | 🌐 JavaScript | 📅 2026-11-07
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 52,756 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,220 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-15
+* [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 22,005 | 🐛 86 | 🌐 HTML | 📅 2026-04-02
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md) ⭐ 20,828 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-14
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 4,946 | 🐛 70 | 🌐 Makefile | 📅 2026-11-07
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md) ⭐ 2,331 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
@@ -29,9 +29,9 @@
 
 ## :rocket: Templates for Pull Requests
 
-* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,755 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14
-* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,216 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-14
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,286 | 🐛 66 | 🌐 Go | 📅 2026-11-12
+* [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 52,756 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14
+* [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 22,220 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-15
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 15,287 | 🐛 67 | 🌐 Go | 📅 2026-11-15
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 4,946 | 🐛 70 | 🌐 Makefile | 📅 2026-11-07
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⚠️ Archived
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md) ⭐ 2,331 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02
@@ -45,7 +45,7 @@
 
 ## :grimacing: Template Collections
 
-* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,481 | 🐛 6 | 📅 2024-03-20
+* [github-issue-templates](https://github.com/stevemao/github-issue-templates) ⭐ 4,480 | 🐛 6 | 📅 2024-03-20
 
 ## :pencil: License
 
@@ -53,4 +53,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
